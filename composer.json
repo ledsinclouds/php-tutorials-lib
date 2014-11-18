@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-0": {
+			"Api": "libs",
+			"OopAdvanced": "oop-advanced",
+			"OopBasics": "oopBasics",
+			"Patterns": "patterns",
+			"SplPatterns": "spl-patterns"
+        }
+    }  
+} 
+
